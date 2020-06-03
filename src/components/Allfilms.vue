@@ -1,7 +1,7 @@
 <template>
     <v-container >
         <v-layout >
-            <v-card style="border: 1px solid gray; margin: 50px auto" elevation="6">
+            <v-card style=" margin: 50px auto" elevation="4">
                 <v-card-title>
                     Лучшие фильмы
                     <v-spacer></v-spacer>
